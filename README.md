@@ -4,6 +4,8 @@
 
 Backpack Rescue Adventure is a game about getting my backpack back.
 
+https://fghiggi.github.io/backpack-rescue-adventure/
+
 ## Installation
 
 1. Clone this repository:
